@@ -1,2 +1,0 @@
-# puppet2
-puppet
